@@ -1,0 +1,11 @@
+dnszones = {
+    zn1 = { name = "privatelink.azurewebsites.net"},
+    zn2 = { name = "privatelink.blob.core.windows.net"},
+    zn3 = { name = "privatelink.database.windows.net"},
+    zn4 = { name = "privatelink.file.core.windows.net"},
+    zn5 = { name = "privatelink.monitor.azure.com"},
+    zn6 = { name = "privatelink.ods.opinsights.azure.com"},
+    zn7 = { name = "privatelink.oms.opinsights.azure.com"},
+    zn8 = { name = "privatelink.redis.cache.windows.net"},
+    zn9 = { name = "privatelink.vaultcore.azure.net"}
+    }
